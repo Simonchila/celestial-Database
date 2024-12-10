@@ -110,3 +110,14 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git
+clear
+[200~git init
+git commit -m "first database commit for freecodecamp"
+git branch -M main
+git remote add origin https://github.com/Simonchila/celestial-Database.git
+git push -u origin main~
+git init
+git commit -m "first database commit for freecodecamp"
+git commit -a
+git commit -a
